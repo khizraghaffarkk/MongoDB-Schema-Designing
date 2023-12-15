@@ -1,0 +1,1 @@
+I designed the schema for grocery food application in MongoDB via use of Express JS.

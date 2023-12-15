@@ -1,0 +1,17 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "====================================================\r Morning Standup Meeting:\r Task I Will  Do Today (Week-5_Day4 Agenda):\r ====================================================\r Today, I will learn about MongoDB and schema and then design schema for grocery food app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  }
+}
